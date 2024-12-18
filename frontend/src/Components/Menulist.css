@@ -919,3 +919,9 @@
         gap: 8px;
     }
 }
+
+.contact, .category {
+    opacity: 1; 
+    z-index: 2; 
+    position: relative; 
+}
